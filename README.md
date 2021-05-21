@@ -33,11 +33,11 @@ Store `mdn` direcotry into your preffered cloud drive and access from any envirn
 	For Windows
 	```shell
 	- OneDrive
-
+	C:\Users\<username>\OneDrive
 	- Google Drive
-
+	G:\'My Drive'
 	- iCloud Drive
-
+	C:\Users\<username>\iCloudDrive
 	```
 
 3. Create `mdn` directory. This is your note library.
