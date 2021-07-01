@@ -4,7 +4,10 @@ This is a directory template for organizing your flavored markdown notes.
 
 Store `mdn` direcotry into your preffered cloud drive and access from any envirnoment with your favoriate Integrated Development Envinorment or IDE!
 
-![MDN with Visual Studio Code](images/mdn.png)
+![MDN with Visual Studio Code for macOS](images/mdn.png)
+![MDN with Visual Studio Code or Windows](images/windows.png)
+
+---
 
 ## 🚀 Get started
 
@@ -30,11 +33,11 @@ Store `mdn` direcotry into your preffered cloud drive and access from any envirn
 	For Windows
 	```shell
 	- OneDrive
-
+	C:\Users\<username>\OneDrive
 	- Google Drive
-
+	G:\'My Drive'
 	- iCloud Drive
-
+	C:\Users\<username>\iCloudDrive
 	```
 
 3. Create `mdn` directory. This is your note library.
