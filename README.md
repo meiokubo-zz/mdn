@@ -1,4 +1,4 @@
-# 👋 Welcome to MDN (Markdown Notes) Beta
+# 👋 Welcome to MDN (MarkDown Note) Beta
 
 This is a directory template for organizing your flavored markdown notes.
 
@@ -60,12 +60,22 @@ Store `mdn` direcotry into your preffered cloud drive and access from any envirn
 
 	See more details about [Bitbucket](https://bitbucket.org/product/guides/basics/four-starting-steps#step-1-put-your-code-in-bitbucket) and [adding remote repository](https://www.atlassian.com/git/tutorials/syncing)
 
-	Of course, now Github is also offering unlimited private repositories for FREE as well.
+	Of course, Github is also offering unlimited private repositories for FREE as well.
 
 
 Now you have it!! 🍰🎉
 
 You may start taking notes with markdown files, organize your notes with directories, backup your markdown note library on the cloud drive, and access to it from any where.
 
-### Template available
+### Templates
+- __Logs:__
+Dump folder for log like `brew upgrade` for example.
+- __Notes:__
+General notes folder.
+- __Code Templates:__
+Use this folder to organize your code snippets in one place. Once you create your beautiful templates here, you'll have consistant readability in your code or config files!
+- __Projects:__
+Make lists or large csv files for your project and save here to make it reusable. 
+
+### MarkDownNote on Github
 [https://github.com/meiokubo/mdn](https://github.com/meiokubo/mdn)
