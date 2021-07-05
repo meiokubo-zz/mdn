@@ -75,6 +75,7 @@ You may start taking notes with markdown files, organize your notes with directo
 Dump folder for log like `brew upgrade` for example.
 - __Notes:__
 General notes folder.
+🈂️ There is sample Syllabus for folks coming from [my podcast](https://anchor.fm/hackbymandy24/episodes/My-first-week-at-WeWork--Jogged-with-VC--Markdown-is-the-best--and-more----Hack-By-Mandy-Office-Hour--Ep--3-e13rl50) here.
 - __Code Templates:__
 Use this folder to organize your code snippets in one place. Once you create your beautiful templates here, you'll have consistant readability in your code or config files!
 - __Projects:__
